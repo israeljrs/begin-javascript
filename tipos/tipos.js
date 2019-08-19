@@ -10,6 +10,11 @@ objeto_jr = {
     caracteristicas: "Objeto vanilla.",
 };
 
+obj2 = {
+    title: 'teste',
+    description: 'testando'
+};
+
 //console.log(objeto)
 
 array = [1, '2', "3", 
