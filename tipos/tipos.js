@@ -3,7 +3,12 @@ console.log('Oi');
 objeto = {
     nome: "Gerson",
     caracteristicas: "ObJETO JavaScript"
-}
+};
+
+objeto_jr = {
+    nome: "Israel",
+    caracteristicas: "Objeto vanilla.",
+};
 
 //console.log(objeto)
 
